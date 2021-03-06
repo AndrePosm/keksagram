@@ -97,4 +97,4 @@ function getPictures(count) {
   return pictures;
 }
 
-console.log(pictures, 2);
+console.log(pictures, 2); //noway
