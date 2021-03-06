@@ -1,0 +1,16 @@
+{
+  "description": "koksogram by André Posmitny",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "engines": {
+    "node": "8.11"
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint --fix --no-inline-config ./js"
+  },
+  "version": "19.0.0"
+}
